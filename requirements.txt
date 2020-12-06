@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.22
+pandas==1.1.2
+numpy==1.19.1
+validate-email==1.3
